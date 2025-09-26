@@ -6,8 +6,8 @@
 
 Here are some ideas about me:
 
-- 🔭 I’m currently working on Vue program
-- 🌱 I’m currently learning
+- 🔭 I’m currently learning in UD,base HUN.
+- 🌱 I’m currently learning Rust & machine learning and so on..
   <span ><img src="https://img.shields.io/badge/-Vue-1572B6?style=flat-square&logo=vue" /> <img src="https://img.shields.io/badge/-TypeScript-oringe?style=flat-square&logo=typescript" /> </span>
 
 - 📫 How to reach me: search Psy3che with wechat
