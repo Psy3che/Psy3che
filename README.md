@@ -12,3 +12,4 @@ Here are some ideas about me:
 
 - 📫 How to reach me: search Psy3che with wechat
 - 😄 Pronouns:Grace
+- Email:tangzi1130@hotmail.com
